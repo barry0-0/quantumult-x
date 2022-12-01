@@ -7,8 +7,7 @@
 [rewrite_local]
 
 
-^https?:\/\/server\.yoyiapp\.com\/fimo-user\/user$ url script-response-body https://github.com/barry0-0/quantumult-x/blob/main/unlock/fimo.js
-
+^https?:\/\/server\.yoyiapp\.com\/fimo-user\/user$ url script-response-body https://raw.githubusercontent.com/barry0-0/quantumult-x/main/unlock/fimo.js
 
 [mitm] 
 
